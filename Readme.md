@@ -1,7 +1,7 @@
 # Учебный проект «Код и Магия» [![Build status][travis-image]][travis-url]
 
 * Студент: [Руслан Козырь](https://up.htmlacademy.ru/javascript/21/user/1158521).
-* Наставник: `Неизвестно`.
+* Наставник: [Руслан Кучеров](https://htmlacademy.ru/profile/id1336765).
 
 ---
 
